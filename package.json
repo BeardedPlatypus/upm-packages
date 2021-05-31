@@ -1,0 +1,9 @@
+{
+    "name": "com.beardedplatypus.pathlib",
+    "version": "0.9.6",
+    "displayName": "pathlib",
+    "description": "Path manipulation library for .NET",
+    "author": {
+      "name": "Maarten Tegelaers"
+    }
+  }
