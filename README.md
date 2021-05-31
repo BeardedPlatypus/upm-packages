@@ -8,7 +8,6 @@ The following table shows the current packages stored within repository.
 
 | Package name                                       | Description                                       | Branch name       |
 | -------------------------------------------------- | ------------------------------------------------- | ----------------- |
-| NETStandard.Library                                | NET Standard dlls                                 | `upm/netstandard` |
 | [PathLib](https://github.com/nemec/pathlib)        | A C# path library                                 | `upm/pathlib`     |
 | [FSharp.Core](https://fsharp.org/)                 | F# support                                        | `upm/fsharp`      |
 | [Newtonsoft.Json](https://www.newtonsoft.com/json) | A popular high-performance JSON framework for .NET| `upm/json`        |
