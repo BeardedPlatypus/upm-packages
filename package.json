@@ -1,0 +1,9 @@
+{
+    "name": "com.beardedplatypus.newtonsoft.json",
+    "version": "13.0.1",
+    "displayName": "Newtonsoft.Json",
+    "description": "Json.NET is a popular high-performance JSON framework for .NET",
+    "author": {
+      "name": "Maarten Tegelaers"
+    }
+  }
