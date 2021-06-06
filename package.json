@@ -1,0 +1,9 @@
+{
+    "name": "com.beardedplatypus.imagesharp",
+    "version": "1.0.3",
+    "displayName": "SixLabors.ImageSharp",
+    "description": "ImageSharp is a new, fully featured, fully managed, cross-platform, 2D graphics API.",
+    "author": {
+      "name": "Maarten Tegelaers"
+    }
+  }
