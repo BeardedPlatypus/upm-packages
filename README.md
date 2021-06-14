@@ -1,5 +1,5 @@
 # upm-packages
-A set of common packages used in private Unity projects, to ease package management of other UPM packages and ensure no duplication of dependencies.
+A set of common packages used in my personal Unity projects, to ease package management of other UPM packages and ensure no duplication of dependencies. These are primarily meant for personal use. If you want to use these as well, I would recommend forking this repository, as I might (accidently) break this repository.
 
 ## Current packages
 
