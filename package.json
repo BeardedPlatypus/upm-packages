@@ -1,8 +1,8 @@
 {
     "name": "com.beardedplatypus.fsharp.core",
-    "version": "5.0.1",
+    "version": "5.0.2",
     "displayName": "FSharp.Core",
-    "description": "FSharp.Core redistributables from F# Tools version 5.0.0 For F# 5.0.  Contains code from the F# Software Foundation.",
+    "description": "FSharp.Core redistributables from F# Tools version 5.0.2 For F# 5.0.  Contains code from the F# Software Foundation.",
     "author": {
       "name": "Maarten Tegelaers"
     }
