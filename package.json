@@ -1,0 +1,12 @@
+{
+    "name": "com.beardedplatypus.projnet4geoapi",
+    "version": "1.4.1",
+    "displayName": "ProjNET4GeoAPI",
+    "description": ".NET Spatial Reference and Projection Engine.",
+    "dependencies": {
+        "com.beardedplatypus.geoapi.coordinatesystems": "1.7.5"
+     },
+    "author": {
+      "name": "Maarten Tegelaers"
+    }
+  }
